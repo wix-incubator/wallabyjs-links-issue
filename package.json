@@ -1,0 +1,15 @@
+{
+  "name": "wallabyjs-links-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
